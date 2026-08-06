@@ -44,7 +44,7 @@ Server menggunakan **Armbian** sebagai sistem operasi utama dengan beberapa opti
                ┌──────────────┐               ┌────────────────┬─────────────┬───────────────┬─────────────────┐
                │              │               │                │             │               │                 │
         ┌──────▼──────┐  ┌────▼────┐  ┌───────▼────────┐ ┌─────▼─────┐ ┌─────▼─────┐ ┌───────▼───────┐ ┌───────▼───────┐
-        │  Frontend   │     │ Backend │      │   Cloudflared  │      │ Portainer │      │  Mikhmon  │      │   Mikhbotam   │      │    Future     │
+        │   Frontend   │     │ Backend │      │   Cloudflared  │      │ Portainer │      │  Mikhmon  │      │   Mikhbotam   │      │    Future     │
         └─────────────┘  └─────────┘  └────────────────┘ └───────────┘ └───────────┘ └───────────────┘ └───────────────┘
 
 ```
